@@ -12,7 +12,7 @@ _paginate: skip
 _footer: ""
 -->
 
-# Aqua: A Simple and Elegant Marp Theme <BR/> Here comes the second line.
+# Aqua: <BR/> A Simple and Elegant Marp Theme
 
 ## Date
 
@@ -47,6 +47,4 @@ The primary color (blue) of this theme is picked up from the [Marp's public blog
 
 # Create beautiful slide decks using <br/> an intuitive Markdown experience
 
-<!--
-_class: blue
--->
+<!-- _class: blue -->
